@@ -1,0 +1,20 @@
+{
+  "name": "Web-Moderno-com-JavaScript",
+  "version": "1.0.0",
+  "description": "https://www.cod3r.com.br/courses/take/web-moderno/lessons/26310572-introducao-do-modulo",
+  "main": "usandoLetEmLoop2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvioedu/Web-Moderno-com-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silvioedu/Web-Moderno-com-JavaScript/issues"
+  },
+  "homepage": "https://github.com/silvioedu/Web-Moderno-com-JavaScript#readme"
+}
